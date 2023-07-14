@@ -3,3 +3,4 @@
 <hr/>
 
 <h1>About</h1>
+<p>Halo, this is my Internship Company</p>
